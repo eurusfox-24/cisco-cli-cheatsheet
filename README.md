@@ -1,5 +1,5 @@
 ## Initial Device Access & Security
-R1> enable                                    ! Enter privileged EXEC mode
+R1> enable                                       ! Enter privileged EXEC mode
 R1# configure terminal                           ! Enter global configuration mode
 R1(config)# hostname R1                          ! Set device hostname
 R1(config)# ip domain-name cisco.com             ! Set DNS domain name
